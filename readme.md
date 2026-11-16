@@ -1,2 +1,2 @@
 Repozytorium ćwiczeniowe
-readme to s
+readme to ss
