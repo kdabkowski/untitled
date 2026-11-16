@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void writeMenu(){
-    const char menuHead[] = "========";
+    const char menuHead[] = "=============";
     const char menuTitle[] = "Bank App";
     const char menu10[] = "Pokaz balans";
     const char menu20[] = "Wplac";
@@ -32,16 +32,16 @@ int menu(){
         writeMenu();
         scanf("%d", &response);
         if(response == 1){
-            printf("Wybrana opcja 1");
+            printf("Wybrana opcja 1\n");
         }
         if(response == 2){
-            printf("Wybrana opcja 2");
+            printf("Wybrana opcja 2\n");
         }
         if(response == 3){
-            printf("Wybrana opcja 3");
+            printf("Wybrana opcja 3\n");
         }
         if(response == 4){
-            printf("Wybrana opcja 4");
+            printf("Wybrana opcja 4\n");
         }
         if(response == 5){
             return 0;
