@@ -1,0 +1,2 @@
+Repozytorium ćwiczeniowe
+readme too
